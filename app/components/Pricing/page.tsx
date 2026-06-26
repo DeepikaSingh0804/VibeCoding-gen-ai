@@ -33,7 +33,7 @@ export default function Pricing() {
   };
 
   return (
-    <section className="py-20 bg-[#0B0F19]">
+    <section className="py-20 bg-[#0B0F19] text-white">
 
       <div className="max-w-6xl mx-auto px-5">
 
