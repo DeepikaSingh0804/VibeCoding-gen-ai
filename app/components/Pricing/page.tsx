@@ -5,7 +5,7 @@
 "use client";
 
 import { useState } from "react";
-import { pricingMatrix } from "@/app/Pricing-Data/page";
+import { pricingMatrix } from "@/app/Data/pricingMatrix";
 
 export default function Pricing() {
   const [currency, setCurrency] = useState("INR");
